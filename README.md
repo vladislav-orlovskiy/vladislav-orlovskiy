@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vladislav-orlovskiy
 - 👀 I’m interested in DevOps engineering tools
 - 🌱 I’m currently learning Ansible
-- 📫 How to reach me email: painanguishagony@gmail.com
+- 📫 How to reach me email: painanguishagony@gmail.com | linkedin: https://linkedin.com/in/neopulsar
 
 <!---
 vladislav-orlovskiy/vladislav-orlovskiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
